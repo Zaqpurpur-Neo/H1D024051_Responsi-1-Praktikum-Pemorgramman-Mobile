@@ -105,7 +105,7 @@ Alur data: `Composable → ViewModel → Repository → API Service → PokéAPI
 2. **Langkah:**
    ```bash
    # Clone repository
-   git clone <URL_REPOSITORY>
+   git clone https://github.com/Zaqpurpur-Neo/H1D024051_Responsi-1-Praktikum-Pemorgramman-Mobile
    ```
 3. Buka folder proyek di **Android Studio**.
 4. Tunggu proses **Gradle Sync** selesai.
