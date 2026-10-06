@@ -91,7 +91,7 @@ Alur data: `Composable → ViewModel → Repository → API Service → PokéAPI
 
 ## VideoDemo
 
-<video src="docs/video-demo.mp4" width="100%" controls></video>
+<video src="./docs/video-demo.mp4" width="100%" controls></video>
 
 ---
 
